@@ -1,0 +1,3 @@
+# Scrum Methodology
+
+- Timeboxing-based

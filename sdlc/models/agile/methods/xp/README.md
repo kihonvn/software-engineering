@@ -1,6 +1,6 @@
 # Extreme Programming
 
-The best known and most widely used agile method
+![](xp01.png)
 
 ## Characteristics
 

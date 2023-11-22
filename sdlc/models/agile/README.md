@@ -1,5 +1,7 @@
 # Agile Software Development
 
+![](agile01.png)
+
 ## Purposes
 
 - Quickly adapt to changing requirements without excessive rework
@@ -32,6 +34,6 @@
 - Difficult changes incorporated
 - Highly flexible
 - Demonstrable integrity and security
-- Use-case reuseable
+- Use-case reusable
 - Required documentation and training
 - Least possible time frame

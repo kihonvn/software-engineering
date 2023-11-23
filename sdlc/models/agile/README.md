@@ -37,3 +37,7 @@
 - Use-case reusable
 - Required documentation and training
 - Least possible time frame
+
+## References
+
+- https://heartofagile.com/

@@ -3,4 +3,4 @@
 - Martin Fowler
 - Ward Cunningham
 - Kent Beck
-- Michael Feathers 
+- Michael Feathers

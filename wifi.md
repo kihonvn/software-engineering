@@ -12,3 +12,4 @@
 |The Coffee House|thecoffeehouse|25A Đồng Nai, P. 15, Q. 10, Tp. Hồ Chí Minh
 |SLOWEE<br>SLOWEE_1<br>Slowee 2.4GHz<br>Slowee 5GHz|bookaholic|53 Lộc Hưng, P. 6, Q. Tân Bình, Tp. Hồ Chí Minh
 |Thinh Coffee|12345678|373/37 Lý Thường Kiệt, P. 9, Q. Tân Bình, Tp. Hồ Chí Minh
+|THE-JOCKER_2.4G<br>THE-JOCKER_5G|saigoncafe|Lô D Chung cư Phạm Viết Chánh, 79 Phạm Viết Chánh, P. 19, Q. Bình Thạnh, Tp. Hồ Chí Minh

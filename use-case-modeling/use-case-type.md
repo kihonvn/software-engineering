@@ -2,7 +2,7 @@
 
 ## First tier
 
-Meaningful
+Meaningful functionalities the system provides to an actor.
 
 ## Secondary tier
 

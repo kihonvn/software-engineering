@@ -1,11 +1,11 @@
 # Actors
 
-A person or other subsystem or system
+An external entity, such as a person, subsystem, or system, interacts with the system-to-be. An actor is associated with a role rather than a person.
 
 ## Actor types
  
 - Initiator
-- Participant
+- [Participant](#participant-types)
 
 A requester is an initiator and an approver is a participant.
 

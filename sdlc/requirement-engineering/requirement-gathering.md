@@ -18,4 +18,4 @@ Customer statement of work (aka customer statement of requirements)
 ## Practices
 
 - Prototype or mock-up system
-- Use case modeling
+- [Use case modeling](use-case-modeling/README.md)

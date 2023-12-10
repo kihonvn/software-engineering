@@ -9,5 +9,5 @@
 ## Steps
 
 - [Gather requirements](requirement-gathering.md)
-- [Analysis requirements](requirement-analysis.md)
+- [Analysis requirements](requirement-analysis/README.md)
 - [Create specifications](requirement-specification.md)

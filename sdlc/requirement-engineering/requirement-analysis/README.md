@@ -4,7 +4,7 @@ Refine of and reason about collected information from gathering step (define use
 
 ## Build domain model
 
-![](boundary.png)
+![](../boundary.png)
 
 ### Steps
 
@@ -23,3 +23,7 @@ Refine of and reason about collected information from gathering step (define use
 ## Problem definition
 
 Based on the problem statement, through fact-finding and envisioning
+
+## Practices
+
+- [Domain model](domain-model/README.md)

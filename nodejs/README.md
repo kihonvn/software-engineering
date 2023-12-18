@@ -23,3 +23,21 @@ update-alternatives --install /usr/bin/node node /opt/nodejs/node-v20.10.0-linux
 
 ## First app
 
+```
+const https = require('node:https')
+const fs = require('node:fs')
+
+const options = {
+    key: fs.readFileSync(''),
+    cert: fs.readFileSync('')
+}
+
+https.createServer(options, (req, res) => {
+    res.writeHead(200)
+})
+```
+
+## Reference
+
+- https://datatracker.ietf.org/doc/html/rfc8555
+

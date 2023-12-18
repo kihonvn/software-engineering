@@ -4,6 +4,6 @@ The test coverage of a system shows its tested percentage based on specification
 
 ## See also
 
-- [Software testing](README.md)
-- [Unit testing](unit-testing/README.md)
-- [Acceptance testing](acceptance-testing/README.md)
+- [Software testing](../README.md)
+- [Unit testing](../unit-testing/README.md)
+- [Acceptance testing](../acceptance-testing/README.md)

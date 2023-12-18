@@ -2,6 +2,19 @@
 
 Testing individual components for finding differences between design models and implementations.
 
+## When to start doing unit testing
+
+- Business requirements are at least 80% complete and have been approved to-date
+- Technical design has been finalized and approved
+- Development environment has been established and is stable
+- Code development for the module is complete
+- Code has version control in place
+
+## When to end unit testing
+
+- No known major or critical defects prevents any modules from moving to system testing phase
+- Project manager approval has been received
+
 ## Advantages
 
 - Reduce the scope of the problem
